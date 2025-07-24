@@ -1,4 +1,7 @@
-<img width="960" height="510" alt="image" src="https://github.com/user-attachments/assets/11eb70ab-da24-44a4-baeb-d1e653bc7af3" /># NoteTaker
+<img width="960" height="510" alt="image" src="https://github.com/user-attachments/assets/11eb70ab-da24-44a4-baeb-d1e653bc7af3" />
+<img width="960" height="510" alt="Screenshot 2025-07-24 204215" src="https://github.com/user-attachments/assets/1c773664-f8f5-4d7d-95b9-901da93c54b3" />
+
+# NoteTaker
 NoteTaker is a web app built with Servlets, JSP, and Hibernate ORM. It allows users to create, update, and delete notes. Hibernate manages all database operations, ensuring smooth and efficient data persistence with MySQL.
 ## Features
 
